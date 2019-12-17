@@ -1,0 +1,24 @@
+{
+  "name": "coming-soon-ciamac-da",
+  "version": "1.0.0",
+  "description": "cia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbw9dus/coming-soon-ciamac-da.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbw9dus/coming-soon-ciamac-da/issues"
+  },
+  "homepage": "https://github.com/fbw9dus/coming-soon-ciamac-da#readme",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "webpack": "^4.41.3"
+  },
+  "devDependencies": {}
+}
